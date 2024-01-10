@@ -62,9 +62,6 @@ div.border{
 section div{
     height: 85%;
     width: 25%;
-
-}
-p{
     display: flex;
     justify-content: center;
     align-items: center;
