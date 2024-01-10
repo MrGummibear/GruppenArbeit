@@ -9,6 +9,14 @@ li{
     justify-content: space-between;
     margin: 0px 20px 0px 0px;
 }
+.menu a {
+    text-decoration: none;
+    color:white;
+}
+.menu a:hover {
+    text-decoration: underline;
+    color: #147723;
+}
 .top{
     background-color: rgb(55, 54, 54);
     display: flex;
