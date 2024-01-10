@@ -67,3 +67,28 @@ section div{
     align-items: center;
     flex-direction: column;
 }
+
+@media (max-width: 1180px){
+    .black{
+        font-size: 30px;
+    }
+
+}
+@media (max-width: 700px){
+    .black{
+        font-size: 18px;
+    }
+    .cont{
+        display: none;
+    }
+    section{
+        flex-direction: column;
+    }
+    div.border{
+        border-bottom: 1px solid rgb(201, 188, 188);    
+        border-right: 0px;
+    }
+    section div{
+        width: 90%;
+    }
+        
