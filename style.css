@@ -64,7 +64,7 @@ section{
 }
 
 div.border{
-    border-right: 1px solid rgb(201, 188, 188);
+    border-right: 3px solid rgb(201, 188, 188);
 }
 
 section div{
@@ -100,4 +100,4 @@ section div{
         width: 90%;
     }
 }    
-        
+
